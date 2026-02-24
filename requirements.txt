@@ -1,0 +1,4 @@
+streamlit
+requests
+deep_translator
+Pillow
